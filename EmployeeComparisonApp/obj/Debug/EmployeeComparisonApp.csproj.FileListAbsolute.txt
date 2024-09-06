@@ -1,0 +1,7 @@
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.exe.config
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.exe
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.pdb
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.AssemblyReference.cache
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.exe
+C:\Users\Siva\source\repos\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.pdb
